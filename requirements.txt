@@ -1,0 +1,12 @@
+# Sora 2 Video Prompt Loader - Requirements
+# Python dependencies for loading and displaying video prompts
+
+# Core file I/O (built-in with Python, no external dependency needed)
+# pathlib is part of Python standard library
+
+# Rich library for colored and formatted console output
+rich>=13.0.0
+
+# Optional: Additional utilities
+# For more advanced prompt processing if needed in future
+pytest>=7.0.0  # For testing
